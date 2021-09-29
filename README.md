@@ -14,3 +14,9 @@
  3. Interview
  4. Prototyping
  5. Reverse engineering
+
+## Requirement classification
+ 1. Classified based upon criticality
+ 2. Classified based on a rationale (why?)
+ 3. Finding key driving requirement, i.e. a reuirement that introduces other requirement
+ 4. Prioritization of the requirement (importance) 
