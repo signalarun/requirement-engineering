@@ -14,6 +14,10 @@
  3. Interview
  4. Prototyping
  5. Reverse engineering
+ 
+  ```
+    Take care of Non-functional requirements, dependency requirements, confirm and get input from all stakeholders
+  ```
 
 ## Requirement classification
  1. Classified based upon criticality
